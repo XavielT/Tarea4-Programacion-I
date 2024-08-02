@@ -1,0 +1,16 @@
+view\RegisterFrame$1.class
+view\LoginFrame$1.class
+service\UserManager.class
+view\LoginFrame$2.class
+main\Main.class
+view\UserListFrame$2.class
+view\UserListFrame.class
+view\UserListFrame$1.class
+view\UserTableModel.class
+view\UpdateUserFrame.class
+view\RegisterFrame.class
+view\UserListFrame$3.class
+model\User.class
+model\UserFactory.class
+view\LoginFrame.class
+view\UpdateUserFrame$1.class
